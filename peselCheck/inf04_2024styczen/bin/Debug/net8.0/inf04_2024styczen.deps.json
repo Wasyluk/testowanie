@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "inf04_2024styczen/1.0.0": {
+        "runtime": {
+          "inf04_2024styczen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "inf04_2024styczen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

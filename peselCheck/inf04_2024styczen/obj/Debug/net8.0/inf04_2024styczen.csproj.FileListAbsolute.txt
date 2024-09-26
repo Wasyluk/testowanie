@@ -1,0 +1,14 @@
+C:\Users\student\Documents\vs22\inf04_2024styczen\inf04_2024styczen\bin\Debug\net8.0\inf04_2024styczen.exe
+C:\Users\student\Documents\vs22\inf04_2024styczen\inf04_2024styczen\bin\Debug\net8.0\inf04_2024styczen.deps.json
+C:\Users\student\Documents\vs22\inf04_2024styczen\inf04_2024styczen\bin\Debug\net8.0\inf04_2024styczen.runtimeconfig.json
+C:\Users\student\Documents\vs22\inf04_2024styczen\inf04_2024styczen\bin\Debug\net8.0\inf04_2024styczen.dll
+C:\Users\student\Documents\vs22\inf04_2024styczen\inf04_2024styczen\bin\Debug\net8.0\inf04_2024styczen.pdb
+C:\Users\student\Documents\vs22\inf04_2024styczen\inf04_2024styczen\obj\Debug\net8.0\inf04_2024styczen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Documents\vs22\inf04_2024styczen\inf04_2024styczen\obj\Debug\net8.0\inf04_2024styczen.AssemblyInfoInputs.cache
+C:\Users\student\Documents\vs22\inf04_2024styczen\inf04_2024styczen\obj\Debug\net8.0\inf04_2024styczen.AssemblyInfo.cs
+C:\Users\student\Documents\vs22\inf04_2024styczen\inf04_2024styczen\obj\Debug\net8.0\inf04_2024styczen.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\vs22\inf04_2024styczen\inf04_2024styczen\obj\Debug\net8.0\inf04_2024styczen.dll
+C:\Users\student\Documents\vs22\inf04_2024styczen\inf04_2024styczen\obj\Debug\net8.0\refint\inf04_2024styczen.dll
+C:\Users\student\Documents\vs22\inf04_2024styczen\inf04_2024styczen\obj\Debug\net8.0\inf04_2024styczen.pdb
+C:\Users\student\Documents\vs22\inf04_2024styczen\inf04_2024styczen\obj\Debug\net8.0\inf04_2024styczen.genruntimeconfig.cache
+C:\Users\student\Documents\vs22\inf04_2024styczen\inf04_2024styczen\obj\Debug\net8.0\ref\inf04_2024styczen.dll
